@@ -7,7 +7,7 @@ https://redchain.co/blog/como-puedo-cuidar-mi-informacion-de-los-hacker
 
 Cuidar tu información personal, como cuentas de correos, redes sociales, contraseñas de los hackers es un deber que cada uno de nosotros debemos asumir para proteger nuestra vida personal, nuestros trabajos y empresas. Pero, ¿existe realmente una técnica o un método eficiente que nos ponga 100% seguros? ¡La respuesta es un no! Cada día se aprovecha más y más del conocimento de la ciencia, la tecnología, [herramientas](https://redchain.co/blog/herramientas-para-cuidar-mis-contraseñas), la antropología, las técnicas de negociación para encontrar esas fallas humanas que exponen las vidas y organizaciones enteras.
 
-![seguidad-informatica](https://redchain.co/img/blog/hacker-photo.jpg)
+![seguidad-informatica](https://redchain.co/assets/img/hacker-photo.jpg)
 
 Entonces ¿qué debemos hacer al respecto? Aprender a pensar "un poco" como un hacker, como un investigador de delitos, como un ladrón profesional y aunque ésta sugerencia suene un poco controversial, es importante que aprender a pensar así tiene un fin específico: _"tratar de entender dónde somos más débiles o dónde pueden estar las posibles fallas humanas que nos exponen"_.
 
